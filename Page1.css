@@ -1,0 +1,18 @@
+.title
+{
+    text-align: center;
+}
+
+.table1
+{
+    caption-side: top;
+    margin: auto;
+    background-color:rgba(136, 202, 193, 0.767);
+    width: 60em;
+    table-layout: fixed;
+}
+
+body
+{
+    background-color:rgb(190, 236, 190);
+}
